@@ -1,0 +1,22 @@
+{
+  "name": "lodash",
+  "version": "1.0.0",
+  "description": "lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i lodash"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "no",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-schedule": "^2.1.1"
+  }
+}
